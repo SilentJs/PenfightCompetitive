@@ -1,6 +1,6 @@
 let sortDirection = false;
 let personData = [
-    {name:"Mohit", rr:0},
+    {name:"Mohit", rr:200},
     {name:"Nikhilesh", rr:0},
     {name:"Shreyas", rr:0},
     {name:"Pathikrit", rr:0},
